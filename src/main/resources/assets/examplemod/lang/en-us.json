@@ -1,5 +1,7 @@
 {
-  "examplemod.titanium_ingot" : "Titanium Ingot",
-  "examplemod.titanium_nugget" : "Titanium Nugget",
-  "examplemod.titanium_raw" : "Titanium Raw"
+  "textures.item.examplemod.titanium_ingot": "Titanium Ingot",
+  "textures.item.examplemod.titanium_nugget": "Titanium Nugget",
+  "textures.item.examplemod.titanium_raw": "Titanium Raw",
+  "textures.block.examplemod.titanium_block": "Titanium Block",
+  "textures.block.examplemod.titanium_ore": "Titanium Ore"
 }

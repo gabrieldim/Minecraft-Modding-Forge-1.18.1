@@ -17,10 +17,10 @@ public class ModItems {
     }
 
     public static final RegistryObject<Item> TITANIUM_INGOT = ITEMS.register("titanium_ingot",
-            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TUTORIAL_TAB)));
 
     public static final RegistryObject<Item> TITANIUM_NUGGET = ITEMS.register("titanium_nugget",
-            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TUTORIAL_TAB2)));
 
     public static final RegistryObject<Item> TITANIUM_RAW = ITEMS.register("titanium_raw",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));

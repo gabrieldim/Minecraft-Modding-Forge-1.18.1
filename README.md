@@ -3,4 +3,4 @@
 - Titanium Nugget
 - Raw Titanium
 - Titanium Block
-- Titanium Ore
+- Titanium Ore and much more...

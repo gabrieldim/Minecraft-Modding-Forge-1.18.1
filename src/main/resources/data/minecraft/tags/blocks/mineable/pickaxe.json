@@ -1,0 +1,7 @@
+{
+  "replace" : false,
+  "values" : [
+    "examplemod:titanium_ore",
+    "examplemod:titanium_block"
+  ]
+}
